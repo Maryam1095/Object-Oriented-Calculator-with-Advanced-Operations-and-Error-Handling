@@ -1,0 +1,2 @@
+# Object-Oriented-Calculator-with-Advanced-Operations-and-Error-Handling
+This repository presents a comprehensive object-oriented calculator program that extends the functionality of a basic calculator by incorporating advanced mathematical operations and robust error handling mechanisms. The program utilizes OOP principles to encapsulate data and operations, promoting code reusability and maintainability.
